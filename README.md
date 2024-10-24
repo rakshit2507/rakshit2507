@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <!--
 **rakshit2507/rakshit2507** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -12,9 +10,9 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 📫 How to reach me: ...<p align="center">
 -->
-  <img src="https://github.com/rakshit2507/blob/main/banner.png" alt="Banner" width="100%" />
+  <img src="https://github.com/rakshit2507/main/banner.png" alt="Banner" width="100%" />
 </p>
-<h1 align="center">Hi 👋, I'm Rakshit Tomart</h1>
+<h1 align="center">Hi 👋, I'm Rakshit Tomar</h1>
 <h3 align="center">A Passionate React.js Developer from Moradabad ,U.P, India.</h3>  
 
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
