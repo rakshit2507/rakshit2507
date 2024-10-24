@@ -1,135 +1,95 @@
-[![MasterHead](https://i.pinimg.com/originals/77/ca/a3/77caa32884d735d439ade45ba37feaf2.gif)](https://arjuncvinod.github.io)
-<h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> I'm Rakshit Tomar</h1>
- 
-<div align=center>
-        <img src="https://readme-typing-svg.herokuapp.com?color=%236FDA44&size=32&center=true&vCenter=true&width=500&height=25&lines=React.js+Developer;" alt="Headline" />
-    </div>
-    </div>  
-<p align="center"><a href="https://rakshit2507.github.io">Portfolio↗️</a></p>
-<img align="right" alt="Coding" width="400" src="https://octodex.github.com/images/daftpunktocat-guy.gif">
+## Hi there 👋
 
-![GitHub followers](https://img.shields.io/github/followers/rakshit2507?style=social) ![GitHub User's stars](https://img.shields.io/github/stars/rakshit2507?style=social)<img src="https://komarev.com/ghpvc/?username=rakshit2507" alt="" />
+<!--
+**rakshit2507/rakshit2507** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-<picture><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 30px align="center"></picture> <br> **About Me**
+Here are some ideas to get you started:
 
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...<p align="center">
+  <img src="https://github.com/nitinkumar2003/rakshit2507/blob/main/Nk_git.png" alt="Banner" width="100%" />
+</p>
+<!-- <h1 align="center">Hi 👋, I'm Rakshit Tomart</h1>   -->
+<h3 align="center">A Passionate React.js Developer from Moradabad ,U.P, India.</h3>  
 
- 🔭 I’m currently working on [My portfolio website](https://github.com/rakshit2507/rakshit2507)
+<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
- 🌱 I’m currently learning **Node.js, MongoDB, Express.js**
-
- 💬 Ask me about **React.js, Javascript, Html, CSS**
-
- 📫 Reach out to me: **rakshittomar4@gmail.com**
-
- ✍ You can find my resume [here](file:///C:/Users/CCI/AppData/Local/Microsoft/Windows/INetCache/IE/VZZ55EZS/Resume_2Proj_2310[1].pdf)
-
- ⚡ Fun fact: **My first line of code was not "Hello World!"**
-
- <p  align="center">
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">             
-<br>
-
-## <img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width=50px>Socials
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.com/invite/wXPEmYjn) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/arjuncvinod.3) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/arjun.c.vinod) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/arjun-c-vinod) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/acvinodvzr) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/arjuncvinod7) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@arjuncvinod3793) [![Codepen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/arjun-c-vinod) 
-
-
-
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"> <b>  Skills</b> 
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/shell_script-%23121011.svg?style=flat&logo=gnu-bash&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=flat&logo=bootstrap&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=flat&logo=express&logoColor=%2361DAFB) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=flat&logo=jquery&logoColor=white) ![NPM](https://img.shields.io/badge/android-%2320232a.svg?style=flat&logo=android&logoColor=%a4c639) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) ![SASS](https://img.shields.io/badge/mysql-%2300f.svg?style=flat&logo=mysql&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobephotoshop-%2331A8FF.svg?style=flat&logo=adobephotoshop&logoColor=white) ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=flat&logo=Adobe%20Premiere%20Pro&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat&logo=Canva&logoColor=white) 	![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white) ![Gimp Gnu Image Manipulation Program](https://img.shields.io/badge/Gimp-657D8B?style=flat&logo=gimp&logoColor=FFFFFF) ![LINUX](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white) ![Raspberry Pi](https://img.shields.io/badge/-RaspberryPi-C51A4A?style=flat&logo=Raspberry-Pi)
-
-<img src="https://raw.githubusercontent.com/trinib/trinib/snake/github-contribution-grid-snake-dark.svg" width="100%">
-
-<p  align="center">
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">             
-<br>
-
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
-<!--- stats & Trophy (start) -->
-<p align="center">
-  <!--- stats (start) -->
-<table align="center">
-<tr border="none">
-<td width="50%" align="center">
-  
-  <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=rakshit2507&theme=midnight-purple&show_icons=true&count_private=true" />
-  <br></br>
-  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=rakshit2507&theme=midnight-purple&hide_border=false" /> 
-</td>
-
-<td width="50%" align="center">
-
-  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=rakshit2507&theme=midnight-purple&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
-  
-  </td>
-</tr>
-</table>
-<!--- stats (end) -->
-
-<!--- trophy (start) -->
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rakshit2507&layout=compact&theme=radical&column=7&row=1&margin-w=15&margin-h=15" alt="rakshit2507" /></a> </p>
-<!--- trophy (end) -->
-
-
-</p>        
-<!--- stats (end) -->
-
-<p  align="center">
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">             
-<br>
-
-## 😂 Here is a random joke that'll make you laugh!
-![Jokes Card](https://readme-jokes.vercel.app/api)
-
-<p  align="center">
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">             
-<br>
-
-## Here are some 🦜Parrots😂:
-
-<div>
-    <img src="https://cultofthepartyparrot.com/parrots/hd/githubparrot.gif" width="30" height="30"/>
-    <img src="https://cultofthepartyparrot.com/flags/hd/indiaparrot.gif" width="30" height="30"/>
-    <img src="https://cultofthepartyparrot.com/parrots/asyncparrot.gif" width="36" height="30"/>
-    <img src="https://cultofthepartyparrot.com/parrots/hd/60fpsparrot.gif" width="30" height="30"/>
-    <img src="https://cultofthepartyparrot.com/parrots/hd/jumpingparrot.gif" width="30" height="30"/>
-    <img src="https://cultofthepartyparrot.com/parrots/hd/opensourceparrot.gif" width="30" height="30"/>
-    <img src="https://cultofthepartyparrot.com/parrots/hd/dealwithitnowparrot.gif" width="30" height="30"/>
-    <img src="https://cultofthepartyparrot.com/parrots/hd/hypnoparrotlight.gif" width="30" height="30"/>
-    <img src="https://cultofthepartyparrot.com/parrots/databaseparrot.gif" width="30" height="30"/>
-    <img src="https://cultofthepartyparrot.com/parrots/fixparrot.gif" width="36" height="30"/>
-    <img src="https://cultofthepartyparrot.com/parrots/hd/laptop_parrot.gif" width="30" height="30"/>
-    <img src="https://cultofthepartyparrot.com/parrots/hd/spinningparrot.gif" width="30" height="30"/>
-    <img src="https://cultofthepartyparrot.com/parrots/hd/levitationparrot.gif" width="30" height="30"/>
-    <img src="https://cultofthepartyparrot.com/parrots/hd/meldparrot.gif" width="30" height="30"/>
-    <img src="https://cultofthepartyparrot.com/parrots/slomoparrot.gif" width="30" height="30"/>
-    <img src="https://cultofthepartyparrot.com/parrots/hd/moonwalkingparrot.gif" width="30" height="30"/>
-    <img src="https://cultofthepartyparrot.com/parrots/hd/stableparrot.gif" width="30" height="30"/>
-    <img src="https://cultofthepartyparrot.com/parrots/hd/scienceparrot.gif" width="30" height="30"/>
-    <img src="https://cultofthepartyparrot.com/parrots/hd/pirateparrot.gif" width="30" height="30"/>
-    <img src="https://cultofthepartyparrot.com/parrots/hd/footballparrot.gif" width="30" height="30"/>
-    <img src="https://cultofthepartyparrot.com/parrots/hd/illuminatiparrot.gif" width="30" height="30"/>
-    <img src="https://cultofthepartyparrot.com/parrots/hd/hypnoparrotdark.gif" width="30" height="30"/>
-    <img src="https://cultofthepartyparrot.com/parrots/hd/mustacheparrot.gif" width="30" height="30"/>
-    <img src="https://cultofthepartyparrot.com/parrots/hd/laptop_parrot.gif" width="30" height="30"/>
-   
-</div>
-<br>
-<p align="center"">
-<img src="https://media.giphy.com/media/jpVnC65DmYeyRL4LHS/giphy.gif" width="20%">
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=rakshit2507&label=Profile%20views&color=0e75b6&style=flat" alt="rakshit2507" />
 </p>
 
-<p  align="center">
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">             
-<br>
-<!---### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=rakshit2507&limit=5&theme=dark&combine_all_yearly_contributions=true)--->
-
+- 🌱 I’m currently working on *React.js Projects*  
+- 💬 Ask me about *React.js, Next.js, and Frontend Development*  
+- 📫 Contact me at: *rakshittomar4@gmail.com*  
+- ⚡ Fun fact: *The first computer "bug" was an actual real-life bug.*
 
 ---
-<!---[![](https://visitcount.itsvg.in/api?id=rakshit2507&icon=5&color=11)](https://visitcount.itsvg.in) -->
 
+<h3 align="left">Connect with me:</h3>  
+<p align="left">
+  
+  <a href="https://www.linkedin.com/in/rakshit-tomar-b483a01b5/" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" />
+  </a>  
+</p>
 
+---
 
-Credit: [rakshit2507](https://github.com/rakshit2507)
+<h3 align="left">Languages and Tools:</h3>  
+<p align="left">
+  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html" width="40" height="40"/> 
+  </a>  
+  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css" width="40" height="40"/> 
+  </a>  
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
+  </a>  
+  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> 
+  </a>  
+  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg" alt="tailwindcss" width="40" height="40"/> 
+  </a>  
+  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> 
+  </a>  
+  <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original-wordmark.svg" alt="nextjs" width="40" height="40"/> 
+  </a>  
+  <a href="https://ant.design/" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/antdesign/antdesign-original-wordmark.svg" alt="antd" width="40" height="40"/> 
+  </a>  
+  <a href="https://nodejs.org" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> 
+  </a>  
+  <a href="https://expressjs.com" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> 
+  </a>  
+  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> 
+  </a>  
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
+  </a>  
+</p>
 
-Last Edited on: 24/10/2024
+<p>
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rakshit2507&show_icons=true&locale=en&layout=compact" alt="rakshit2507" />
+</p>
+
+<p>&nbsp;
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=rakshit2507&show_icons=true&locale=en" alt="rakshit2507" />
+</p>
+
+<p>
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rakshit2507&" alt="rakshit2507" />
+</p>
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
