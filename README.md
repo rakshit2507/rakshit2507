@@ -10,7 +10,7 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 📫 How to reach me: ...<p align="center">
 -->
-  <img src="https://github.com/rakshit2507/banner.png" alt="Banner" width="100%" />
+  <img src="https://github.com/rakshit2507/rakshit2507/blob/main/banner.png" alt="Banner" width="100%" />
 </p>
 <h1 align="center">Hi 👋, I'm Rakshit Tomar</h1>
 <h3 align="center">A Passionate React.js Developer from Moradabad ,U.P, India.</h3>  
