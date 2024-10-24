@@ -2,7 +2,7 @@
 <h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> I'm Rakshit Tomar</h1>
  
 <div align=center>
-        <img src="https://readme-typing-svg.herokuapp.com?color=%236FDA44&size=32&center=true&vCenter=true&width=400&height=35&lines=React.js+Developer;" alt="Headline" />
+        <img src="https://readme-typing-svg.herokuapp.com?color=%236FDA44&size=32&center=true&vCenter=true&width=500&height=25&lines=React.js+Developer;" alt="Headline" />
     </div>
     </div>  
 <p align="center"><a href="https://rakshit2507.github.io">Portfolio↗️</a></p>
